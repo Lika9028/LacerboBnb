@@ -1,0 +1,26 @@
+#header{
+	background-color: #66ff33;
+}
+#nav{
+	background-color: #5999a68;
+	text-align: center;
+	list-style-type: none;
+}
+#nav li {
+display: inline-block;
+padding: 6px 8px 6px 8px;
+}
+#nav li a{
+	color: #ffffff;
+}
+#nav li:hover {
+	background-color: #6ab47b;
+}
+
+#content{
+	width: 600px;
+	margin: 30px auto;
+}
+#content h3{
+	border-bottom: #5999a68 solid 3px;
+}
